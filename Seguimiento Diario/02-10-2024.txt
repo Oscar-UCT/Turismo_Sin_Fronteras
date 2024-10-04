@@ -4,10 +4,8 @@ Los roles principales serán:
     Leandro Manriquez: Interfaz
     Michael Flores: Documentación
 
-Las funciones principales que va a tener este proyecto serán: reserva de excursiones, comidas y alojamientos, registro y login. Estas funciones se identificaron por un análisis grupal.
+Las funciones principales que va a tener este proyecto serán: reserva de excursiones, comidas, alojamientos, registro y login. Estas funciones se identificaron por un análisis grupal.
 
 Se creó además un diagrama entidad relación, en donde se identificaron 4 entidades principales y 1 secundaria. Estas 4 clases principales son: excursión, cliente, alojamiento y comidas. La clase secundaria es la clase "Empleado", que quizás se use en un futuro, pero probablemente no. Esto fue parte del diseño de la plataforma.
 
 En paralelo, se avanzó en el diseño del sitio web de esta empresa en el software Figma. Este sitio web permitirá todas las funciones que se mencionaron al inicio, y se busca un diseño agradable, simple y eficiente.
-
-El análisis de hizo el siguiente día.
