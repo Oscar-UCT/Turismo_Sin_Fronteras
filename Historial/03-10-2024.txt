@@ -1,1 +1,5 @@
 Este día se realizó un análisis de funciones. Las 3 funciones para reserver excursiones, comidas y alojamiento necesitarán los datos de los clientes. Para facilitar la parte del cliente, se necesitará un registro y un Log-In. Estas funciones se implementarán en un futuro según sea necesario. También se tienen que tomar en cuenta los cupos para cada servicio, esto es una función en sí misma.
+
+Además, se continuó con el diseño de la página, tomando en cuenta los casos de uso del cliente y las posibles variaciones que pueden haber según cada servicio. El diseño se sigue desarrollando en Figma.
+
+Para hacer los diagramas, se utilizó Drawio.
