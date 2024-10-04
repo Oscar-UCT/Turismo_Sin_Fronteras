@@ -22,7 +22,7 @@ La oferta de excursiones dependerá de los cupos definidos desde el principio.
 ![Modulo Comidas](https://github.com/user-attachments/assets/a1f89dd0-3781-4548-a487-ec1a2b505636)
 
 ### Programa de Prueba para Demostración
-![GIFPrograma](https://github.com/user-attachments/assets/ce4192c9-52da-43f1-afdb-826d6389695e)
+![GIF_HD](https://github.com/user-attachments/assets/7da20971-66a6-48a9-b062-f1b92291fc9a)
 
 ### Diagrama Entidad-Relación
 ![Tabla Entidad Relacion Foto](https://github.com/user-attachments/assets/bd61b202-432d-4b2e-9b01-8e9516b05f85)
